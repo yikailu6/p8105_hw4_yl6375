@@ -27,7 +27,4 @@ You can learn more about my experience on my [resume](resume.html).
 
 I enjoy badminton, swimming, and sketching.
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
