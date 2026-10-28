@@ -1,0 +1,33 @@
+---
+title: "Yikai Lu"
+date: "`r Sys.Date()`"
+output: html_document
+---
+---
+title: "Yikai Lu"
+---
+
+## Welcome!
+
+My name is Yikai Lu. My academic background is in statistics,
+with a focus on machine learning.
+
+My interests include data science, biostatistics, and applications
+of statistical methods to public health and medical research.
+
+## About my work
+
+My research experience includes analyzing cancer patient survival
+and clinical and pathological data using Python. My projects have
+also involved regression modeling and clinical trial analysis.
+
+You can learn more about my experience on my [resume](resume.html).
+
+## Outside of academics
+
+I enjoy badminton, swimming, and sketching.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+

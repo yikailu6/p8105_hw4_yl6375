@@ -1,0 +1,80 @@
+---
+title: "Resume"
+---
+
+## Yikai Lu
+
+[Yikai.lu@outlook.com](mailto:Yikai.lu@outlook.com) | (+1) 530-364-8333  
+[GitHub](https://github.com/yikailu6/)
+
+## Education
+
+### University of California, Davis
+
+**Bachelor of Science in Statistics, Machine Learning Track**  
+Davis, CA | Anticipated May 2026
+
+- **GPA:** 3.487/4.00
+- **Relevant coursework:** Calculus, Linear Algebra, Regression Analysis, Statistical Data Science, Multivariate Data Analysis, Advanced Statistical Computing, Probability Theory, Vector Analysis, and Introduction to Programming.
+
+## Research Experience
+
+### Alpert Medical School of Brown University
+
+**Research Assistant** | Remote
+
+**Analysis of the Expression and Functional Impact of RhoV on PDAC**  
+*May 2025 – Present*
+
+- Investigated the role of RhoV in pancreatic ductal adenocarcinoma (PDAC).
+- Used Python to analyze associations between RhoV expression and patient survival outcomes and relate findings to biological mechanisms, including MAPK pathway activation.
+- Reviewed and documented clinical and pathological data for 114 patients, ensuring accuracy and consistency.
+
+**Analysis of Colon Cancer Whole Slide Images Using a Foundation Model**  
+*August 2024 – July 2025*
+
+- Collected pathological data for more than 200 patients and conducted survival analyses using Python.
+- Prepared statistical analysis reports describing clinical and molecular insights from the results.
+
+## Project Experience
+
+### Predicting Housing Prices Using the Ames Housing Dataset
+
+**Course Project** | Davis, CA  
+*March 2025 – June 2025*
+
+- Built and compared regularized regression models and identified key predictors of housing prices.
+
+### Effect and Safety of Semaglutide as an Adjunct to Intensive Behavioral Therapy
+
+**Mentored by a Senior Biostatistician at Viridian Therapeutics** | Remote  
+*July 2024 – August 2024*
+
+- Developed a statistical analysis plan for a 68-week randomized, double-blind, placebo-controlled clinical trial evaluating once-weekly semaglutide 2.4 mg as an adjunct to intensive behavioral therapy in overweight or obese patients.
+- Conducted primary and secondary efficacy analyses using SAS, including ANCOVA and logistic regression.
+- Incorporated Medical Dictionary for Regulatory Activities (MedDRA) coding into the analysis plan.
+
+### Identifying High-Value Customers Using Shopping Records
+
+**Kaggle Data Competition** | Davis, CA  
+*November 2023 – December 2024*
+
+- Applied linear regression, reduced models, generalized linear models, binomial models, K-nearest neighbors, principal component analysis, and regularized regression to study apparel purchase amounts and identify high-value customers.
+- Compared models using hypothesis testing, cross-validation, and AIC/BIC.
+- Evaluated performance using residual analysis, ROC/AUC comparisons, and confusion matrices.
+
+## Leadership Experience
+
+### Comparing Melatonin and Sleeping Pills for College Students
+
+**Team Leader** | Davis, CA  
+*February 2024*
+
+- Led a team of five analyzing an experimental dataset of 20 patients to compare the effects of melatonin and sleeping pills on sleep duration.
+- Applied a cell means model and ANOVA to compare treatment effects and used Tukey's method to detect outliers.
+
+## Skills and Interests
+
+- **Technical skills:** Python, SAS, R, SQL, and Microsoft Office.
+- **Languages:** Mandarin (native) and English (professional proficiency).
+- **Interests:** Badminton, swimming, and sketching.
